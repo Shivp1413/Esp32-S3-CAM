@@ -47,7 +47,7 @@ Ensure the following libraries are in your Arduino IDE installation:
 ## Hardware Pinout Configuration (ESP-SN16R8)
 - **Reset**: GPIO # -1 (Hardware Reset or software trigger if needed).
 - **XCLK/PIN PWR**: GPIO # -1.
-- **Data Lines **(D0-D7): Defined by pin mapping in `config.pin_*` for VGA/MP4 capture logic (`Y2` to `SIOC`).
+- **Data Lines** (D0-D7): Defined by pin mapping in `config.pin_*` for VGA/MP4 capture logic (`Y2` to `SIOC`).
 
 ## Installation & Configuration Steps
 1. Install the latest version of `Arduino IDE`.
