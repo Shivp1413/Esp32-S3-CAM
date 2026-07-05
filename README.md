@@ -2,6 +2,12 @@
 
 A lightweight real-time camera stream server for ESP32-S3 devices using HTTP and WiFi SoftAP configuration with MJPEG video feed support over local network or localhost access point (default port 80). Designed to work on minimum N4R4 pinout-based boards, it provides a web interface to view live feeds without requiring dedicated hardware.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/093a059a-c035-4b90-95bd-c107a57da932"
+       alt="520"
+       width="350">
+</p>
+
 ## Requirements
 - **Hardware**: ESP32-S3 Dev Module / Arduino Nano V3
 - **Board Settings** | **Value**
