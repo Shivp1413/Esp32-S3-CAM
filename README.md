@@ -11,12 +11,6 @@ A lightweight real-time camera stream server for ESP32-S3 devices using HTTP and
 ## Requirements
 - **Hardware**: ESP32-S3 Dev Module / Arduino Nano V3
 - **Board Settings** | **Value**
-- Board: `ESP32S3 Dev Module`
-- PSRAM: `OPI PSRAM (16MB)` or appropriate partition map for flash stability
-- Flash Mode: `QIO 80MHz`
-- Partition Map: `16M Flash / 3MB APP / 9.9MB FATFS`
-- USB CDC On Boot: Enabled
-
 ```text
 Use these Arduino IDE settings:
 
