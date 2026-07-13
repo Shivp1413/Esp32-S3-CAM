@@ -38,13 +38,12 @@ USB CDC On Boot	Enabled
 Ensure the following libraries are in your Arduino IDE installation:
 
 ```cpp
-// Include files from code snippet headers
 #include "esp_camera.h"  // ESP32 camera initialization
 #include <WiFi.h>        // WiFi SoftAP configuration
 #include "esp_http_server.h"  // HTTP server setup for /stream handler
 ```
 
-## Hardware Pinout Configuration (ESP-SN16R8)
+## Hardware Pinout Configuration (ESP-S3N16R8)
 - **Reset**: GPIO # -1 (Hardware Reset or software trigger if needed).
 - **XCLK/PIN PWR**: GPIO # -1.
 - **Data Lines** (D0-D7): Defined by pin mapping in `config.pin_*` for VGA/MP4 capture logic (`Y2` to `SIOC`).
