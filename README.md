@@ -49,4 +49,3 @@ Ensure the following libraries are in your Arduino IDE installation:
 
 ## Live feed
 After connecting your PC/smartphone with wifi, open http://192.168.4.1/ in browser and check the live feed.
-```
