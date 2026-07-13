@@ -8,9 +8,8 @@ A lightweight real-time camera stream server for ESP32-S3 devices using HTTP and
        width="350">
 </p>
 
-## Requirements
-- **Hardware**: ESP32-S3 Dev Module / Arduino Nano V3
-- **Board Settings** | **Value**
+##  **Hardware Requirements**: ESP32-S3 Dev Module / Arduino Nano V3
+
 ```text
 Use these Arduino IDE settings:
 
